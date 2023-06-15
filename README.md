@@ -9,7 +9,7 @@ I'm a software developer at PwC. I graduated from Bahcesehir University in 2021.
 
 ### Learning | Using 🧠
 
-({[BadgeURLHere](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)})
+({[https://camo.githubusercontent.com/8bd8462559655249cfe2429bebaf5d83cec1ad49e516148c072c8e1361bb2b15/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230416e616c79746963732d4533373430303f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65253230616e616c7974696373266c6f676f436f6c6f723d7768697465](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)})
 <code><a href="https://www.laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
 <code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
 <code><a href="https://docs.microsoft.com/tr-tr/dotnet/welcome" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
