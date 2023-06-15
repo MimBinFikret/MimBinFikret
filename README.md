@@ -4,7 +4,7 @@
 
 ## Software Developer | Technology Enthusiast
 
-I am a passionate software developer with a strong background in Software Engineering and Computer Education and Instructional Technologies. With a degree in Software Engineering from Bahcesehir University, I graduated in 2021. I am currently working at Evodice Project as a software developer, specializing in analysis and software development.
+I am a passionate software developer with a strong background in Software Engineering and Computer Engineering and Instructional Technologies. I graduated from Istanbul University with a bachelor's degree and have a diverse educational background in various fields. I am currently working at Evodice Project as a software developer, specializing in analysis and software development.
 
 ![M. Şamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MimBinFikret&show_icons=true)
 
