@@ -4,12 +4,12 @@
 
 I'm a software developer at PwC. I graduated from Bahcesehir University in 2021. My departments are Software Engineering and Computer Education and Instructional Technologies. I love to learn new things, hardworking and is very keen on technology.
 
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmertpolat&show_icons=true)
+![M. Şamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MimBinFikr&show_icons=true)
 
 
 ### Learning | Using 🧠
 
-<img src="{	https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white}" />
 <code><a href="https://www.laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
 <code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
 <code><a href="https://docs.microsoft.com/tr-tr/dotnet/welcome" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
