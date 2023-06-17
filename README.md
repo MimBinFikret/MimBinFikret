@@ -7,7 +7,9 @@
 I am a passionate software developer with a strong background in Software Engineering and Computer Engineering and Instructional Technologies. I graduated from Istanbul University with a bachelor's degree and have a diverse educational background in various fields. I am currently working at Evodice Project as a software developer, specializing in analysis and software development.
 
 ![M. Şamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MimBinFikret&show_icons=true)
-
+<a href="https://github.com/OldModz95-YTB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OldModz95-YTB&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</>
 ### Expertise and Interests
 
 My areas of expertise and interest revolve around cutting-edge technologies and innovative solutions. I have a strong command in the following areas:
