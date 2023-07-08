@@ -32,7 +32,7 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
 As a professional, I am highly dedicated, hardworking, and eager to learn. I have a deep passion for technology and a keen interest in exploring new advancements in the field. I thrive in challenging environments and consistently strive to enhance my skills and knowledge. I am driven by a strong work ethic and a genuine enthusiasm for creating impactful and meaningful solutions.
 
 ### Learning | Using 🧠
-
+<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></a></code>
 <code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
 <code><a href="https://docs.microsoft.com/tr-tr/dotnet/welcome" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://java.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
