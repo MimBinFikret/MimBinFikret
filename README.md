@@ -33,14 +33,7 @@ As a professional, I am highly dedicated, hardworking, and eager to learn. I hav
 
 ### Learning | Using 🧠
 
-<code><img height="50" src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white"></a></code>
 <code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
-<img src="assets/fastapi-logo.png" alt="fastapi-logo" height="60" /> <img
-src="assets/react-logo.png" alt="react-logo" height="60" /> &nbsp; &nbsp; <img
-src="assets/react-admin.png" alt="react-admin" height="60" /> &nbsp; &nbsp; <img
-src="assets/typescript.png" alt="react-logo" height="60" /> &nbsp;&nbsp;&nbsp;
-<img src="assets/postgres.png" alt="react-logo" height="60" /> <img
-src="assets/sql-alchemy.png" alt="sql-alchemy" height="60" />
 <code><a href="https://docs.microsoft.com/tr-tr/dotnet/welcome" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://java.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://tr.wordpress.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
