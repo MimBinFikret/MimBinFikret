@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=MimBinFikret&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuhammed-samil-albayrak)](https://www.linkedin.com/in/muhammed-samil-albayrak/)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MimBinFikret&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammed Şamil Albayrak" /> </p>
 
 ## Software Developer | Technology Enthusiast
@@ -63,8 +65,13 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
 <img align="left" width="26px" src="https://camo.githubusercontent.com/b6d249a510b6625bc493ee5894e1228ee81974b540565d6d58b23421ecc8d09b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a736f6e2e737667" />
 <img align="left" width="26px" src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" />
 <img align="left" width="26px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
----
- 
-## Contact Me 📫
+<br/><br/>
 
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=MimBinFikret&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuhammed-samil-albayrak)](https://www.linkedin.com/in/muhammed-samil-albayrak/)
+---
+
+<p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MimBinFikret" alt="MimBinFikret" /><br/>
+ 
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MimBinFikret&show_icons=true&locale=en" alt="MimBinFikret" width="40%" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MimBinFikret&show_icons=true&locale=en&layout=compact" alt="MimBinFikret" /><br/>
+
