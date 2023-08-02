@@ -6,20 +6,19 @@
 
 ## Software Developer | Technology Enthusiast
 
-I am a passionate software developer with a strong background in Software Engineering and Computer Engineering and Instructional Technologies. I graduated from Istanbul University with a bachelor's degree and have a diverse educational background in various fields. I am currently working at Evodice Project as a software developer, specializing in analysis and software development.
+I am a passionate software developer with a strong background in Software Engineering and Computer Engineering. I am currently working at Evodice Project as a software developer, specializing in analysis and software development.
 
 ### Expertise and Interests
 
 My areas of expertise and interest revolve around cutting-edge technologies and innovative solutions. I have a strong command in the following areas:
 
 - Console Applications
+- Natural Language Processing
 - Time Operations
 - Web Applications
-- User Interface
-- Natural Language Processing
 - Artificial Intelligence
 - Bot Development
-- Embedded Systems
+
 
 ### Learning | Using 🧠
 
