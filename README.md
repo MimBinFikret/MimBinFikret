@@ -57,7 +57,7 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
 <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MimBinFikret" alt="MimBinFikret" /><br/>
  
 ---
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MimBinFikret&show_icons=true&locale=en" alt="MimBinFikret" height="53%" width="53%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MimBinFikret&show_icons=true&locale=en" alt="MimBinFikret" height="52%" width="52%" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MimBinFikret&show_icons=true&locale=en&layout=compact" alt="MimBinFikret" height="45%" width="45%" />
 <br/>
 
