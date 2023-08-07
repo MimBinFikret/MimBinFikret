@@ -58,6 +58,6 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
  
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MimBinFikret&show_icons=true&locale=en" alt="MimBinFikret" height="250px" width="250px" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MimBinFikret&show_icons=true&locale=en&layout=compact" alt="MimBinFikret" height="250px" width="250px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MimBinFikret&show_icons=true&locale=en&layout=compact" alt="MimBinFikret" height="500px" width="250px" />
 <br/>
 
