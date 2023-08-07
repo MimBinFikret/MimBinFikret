@@ -50,15 +50,21 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
 <img align="left" width="41px" alt="Colab" src="https://camo.githubusercontent.com/d626e9d547431bd83945c901088f0ff8b48bbf45ff074dd46272fdec5818c9c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f636f6c61626f7261746f72792e737667" />
 <img align="left" width="41px" alt="Google" src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" />
 <img align="left" width="41px" alt="GoogleAPPs" src="https://camo.githubusercontent.com/79ff395e59e194893fea2c005c0c8157c8ee2fb0dde70ae7be6ce1cde044cde8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c655f706f6463617374732e737667" />
+
 <br/><br/><br/>
+
 
 ---
 
-<p style="width:80%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MimBinFikret" alt="MimBinFikret" /><br/>
+
+<p style="width:50%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MimBinFikret" alt="MimBinFikret" /><br/>
+
  
 ---
 
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MimBinFikret&show_icons=true&locale=en" alt="MimBinFikret" height="50%" width="50%" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MimBinFikret&show_icons=true&locale=en&layout=compact" alt="MimBinFikret" height="38%" width="38%" />
+
 <br/>
 
