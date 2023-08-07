@@ -57,7 +57,7 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
 ---
 
 
-<p style="width:50%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MimBinFikret" alt="MimBinFikret" /><br/>
+<p style="width:50%"><a href="https://github-profile-trophy.vercel.app/?username=MimBinFikfret&row=2&column=3" alt="MimBinFikret" /><br/>
 
  
 ---
