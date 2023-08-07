@@ -57,7 +57,7 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
 ---
 
 
-<img align="center" width="185%" src="https://github-profile-trophy.vercel.app/?username=MimBinFikret&column=8&theme=flat&no-frame=true"/>
+<img align="center" width="920px" src="https://github-profile-trophy.vercel.app/?username=MimBinFikret&column=8&theme=flat&no-frame=true"/>
 
 
 ---
