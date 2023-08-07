@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MimBinFikret&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammed Şamil Albayrak" /> </p>
 
-## Software Developer | Technology Enthusiast
+## COMPUTER SCIENCE AND ENGINEERING PROFESSIONAL
 
-I am a passionate software developer with a strong background in Software Engineering and Computer Engineering. I am currently working at Evodice Project as a software developer, specializing in analysis and software development.
+I am a passionate software developer with a strong background in Computer Science and Computer Engineering. I am currently working at Evodice Project as a analyst.
 
 ### Expertise and Interests
 
