@@ -68,3 +68,10 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
 
 <br/>
 
+---
+---
+---
+
+<br/>
+
+<a href="https://roadmap.sh"><img align="center" src="https://api.roadmap.sh/v1-badge/wide/64d1977a958c39fd1f7ea130?variant=dark&roadmaps=full-stack%2Cbackend%2Cdevops%2Cdocker" alt="roadmap.sh"/></a>
