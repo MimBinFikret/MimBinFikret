@@ -67,7 +67,3 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MimBinFikret&show_icons=true&locale=en&layout=compact" alt="MimBinFikret" height="38%" width="38%" />
 
 <br/>
-
-<a href="https://roadmap.sh">
-<img align="center" width="50%" src="https://api.roadmap.sh/v1-badge/wide/64d1977a958c39fd1f7ea130?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops" alt="roadmap.sh"/>
-</a>
