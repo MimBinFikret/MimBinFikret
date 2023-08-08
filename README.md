@@ -16,8 +16,7 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
 - Natural Language Processing
 - Time Operations
 
-<a href="https://roadmap.sh">
-<img align="right" width="50%" src="https://api.roadmap.sh/v1-badge/wide/64d1977a958c39fd1f7ea130?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops" alt="roadmap.sh"/>
+<a href="https://roadmap.sh"><img align="right" width="50%" src="https://api.roadmap.sh/v1-badge/wide/64d1977a958c39fd1f7ea130?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops" alt="roadmap.sh"/>
 
 - Web Applications
 - Artificial Intelligence
