@@ -12,12 +12,9 @@ I am a passionate development with a strong background in Computer Science and C
 
 My areas of expertise and interest revolve around cutting-edge technologies and innovative solutions. I have a strong command in the following areas:
 
-- Console Applications
+- Console Applications <a href="https://roadmap.sh"><img align="right" width="50%" src="https://api.roadmap.sh/v1-badge/wide/64d1977a958c39fd1f7ea130?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops" alt="roadmap.sh"/>
 - Natural Language Processing
 - Time Operations
-
-<a href="https://roadmap.sh"><img align="right" width="50%" src="https://api.roadmap.sh/v1-badge/wide/64d1977a958c39fd1f7ea130?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops" alt="roadmap.sh"/>
-
 - Web Applications
 - Artificial Intelligence
 - Bot Development
