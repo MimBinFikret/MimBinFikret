@@ -19,7 +19,7 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
 - Natural Language Processing
 - Time Operations
 
-<br/><br/><br/>
+<br/>
 
 ### Learning | Using 🧠
 
