@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MimBinFikret&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammed Şamil Albayrak" /> </p>
 
 ## COMPUTER SCIENCE AND ENGINEERING PROFESSIONAL
-<codersrank-skills-chart username="mimbinfikret"></codersrank-skills-chart>
+<img align="left" width="41px" alt="Linux" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mimbinfikret" />
+
 I am a passionate development with a strong background in Computer Science and Computer Engineering. I am currently working at Evodice Project as a analyst.
 
 ### Expertise and Interests
