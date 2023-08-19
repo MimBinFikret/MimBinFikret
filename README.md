@@ -1,3 +1,5 @@
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mimbinfikret)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=MimBinFikret&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuhammed-samil-albayrak)](https://www.linkedin.com/in/muhammed-samil-albayrak/)
@@ -5,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MimBinFikret&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammed Şamil Albayrak" /> </p>
 
 ## COMPUTER SCIENCE AND ENGINEERING PROFESSIONAL
-<img align="left" width="41px" alt="Linux" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mimbinfikret" />
 
 I am a passionate development with a strong background in Computer Science and Computer Engineering. I am currently working at Evodice Project as a analyst.
 
@@ -20,7 +21,9 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
 - Natural Language Processing
 - Time Operations
 
+
 <br/>
+
 
 ### Learning | Using 🧠
 
@@ -55,17 +58,20 @@ My areas of expertise and interest revolve around cutting-edge technologies and 
 
 <br/><br/><br/>
 
-
 ---
-
 
 <img align="center" width="920px" src="https://github-profile-trophy.vercel.app/?username=MimBinFikret&column=8&theme=flat&no-frame=true"/>
 
-
 ---
-
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MimBinFikret&show_icons=true&locale=en" alt="MimBinFikret" height="50%" width="50%" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MimBinFikret&show_icons=true&locale=en&layout=compact" alt="MimBinFikret" height="38%" width="38%" />
 
-<br/>
+### ........................................................................................................................
+
+---
+
+<div align="center">
+<img  width="100%" alt="General" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mimbinfikret" />
+</div>
+
