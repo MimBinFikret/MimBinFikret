@@ -1,5 +1,3 @@
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mimbinfikret)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=MimBinFikret&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuhammed-samil-albayrak)](https://www.linkedin.com/in/muhammed-samil-albayrak/)
