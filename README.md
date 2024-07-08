@@ -6,7 +6,7 @@
 
 ## COMPUTER SCIENCE AND ENGINEERING PROFESSIONAL
 
-I am a passionate development with a strong background in Computer Science and Computer Engineering. I am currently working at Evodice Project as a analyst.
+I am a passionate development with a strong background in Computer Science and Computer Engineering. I am currently working at Teknopalas as a System Analyst.
 
 ### Expertise and Interests
 
